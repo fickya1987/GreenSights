@@ -1,4 +1,6 @@
 # Green Sights- ESG Explorer
+
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ## Deployment  [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://greensights.streamlit.app/)
 
 
