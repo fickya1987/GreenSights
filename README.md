@@ -39,3 +39,9 @@ Contributions are welcome! If you would like to contribute to the project, pleas
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
+## Author  
+- [<ins><b>©2023 Tushar Aggarwal. All rights reserved</b></ins>](https://www.tushar-aggarwal.com/)
+- <b>[LinkedIn](https://www.linkedin.com/in/tusharaggarwalinseec/)</b>
+- <b>[Medium](https://medium.com/@tushar_aggarwal)</b> 
+- <b>[Tushar-Aggarwal.com](https://www.tushar-aggarwal.com/)</b>
+- <b>[X](https://twitter.com/TaggData)</b> 
